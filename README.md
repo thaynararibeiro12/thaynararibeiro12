@@ -1,5 +1,5 @@
 ## Boas vindas ao meu perfil 💙💙
-Meu é Thaynara Gonçalves Ribeiro
+Meu nome é Thaynara Gonçalves Ribeiro
 
 Estou estudando na Alura
 Estou me desenvolvendo na linguagem JavaScript
